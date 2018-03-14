@@ -1,4 +1,4 @@
-# coaic
+# coaic - cloned from https://github.com/gcullie/coaic
 **COAIC files**
 
 training-setup.sh : This will setup a Ubuntu 16.04 server envionment. </br>
